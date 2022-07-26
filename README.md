@@ -1,1 +1,1 @@
-# Figuras-Geom-tricas---Parcial-Final-POO
+# Figuras-Geométricas---Parcial-Final-POO
