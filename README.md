@@ -4,12 +4,18 @@ Elaborar un programa que ofrezca un menú de opciones mediante el cual se pueda 
 ## PANTALLAZOS DEL PROGRAMA EN EJECUCCIÓN
 ![Pantallazo 1](1.PNG "Diagrama de clases")
 ![Pantallazo 2](1.1.PNG "Diagrama de clases")
+
+
 ![Pantallazo 3](2.PNG "Diagrama de clases")
 ![Pantallazo 4](3.PNG "Diagrama de clases")
 ![Pantallazo 5](2.1.PNG "Diagrama de clases")
+
+
 ![Pantallazo 6](4.PNG "Diagrama de clases")
 ![Pantallazo 7](5.PNG "Diagrama de clases")
 ![Pantallazo 8](3.1.PNG "Diagrama de clases")
+
+
 ![Pantallazo 9](6.PNG "Diagrama de clases")
 ![Pantallazo 10](4.1.PNG "Diagrama de clases")
 
