@@ -1,5 +1,17 @@
-##Figuras-Geométricas---Parcial-Final-POO
-Se necesita escribir las clases necesarias y una aplicación para registrar la información de los libros pertenecientes a la biblioteca del señor Pérez. El ha informado que de cada libro desea guardar el nombre del mismo, el nombre del autor o autores, el año de edición y si se trata de una edición de lujo o no. También ha dicho que tiene una serie de libros que forman colecciones, en cuyo caso además de lo anterior, requiere guardar el nombre de la colección y el número que ocupa el libro en la colección. La única aclaración adicional es que si se trata de un libro con mas de dos autores quiere guardar el primer autor, y el nombre del segundo debe aparecer “y otros”.
+## EJERCICIO PRÁCTICO PARCIAL FINAL POO
+Elaborar un programa que ofrezca un menú de opciones mediante el cual se pueda escoger calcular el volumen de las figuras geométricas: cubo, cilindro, cono y esfera. Una vez seleccionada la opción, que permita solicitar y leer el nombre de la figura y los datos necesarios para calcular el volumen correspondiente e imprima el nombre de la figura y el volumen. Debe usarse una superclase Figura y una subclase para casa una de las figuras indicadas.
+
+## PANTALLAZOS DEL PROGRAMA EN EJECUCCIÓN
+![Pantallazo 1](1.png "Diagrama de clases")
+![Pantallazo 2](1.1.png "Diagrama de clases")
+![Pantallazo 3](2.png "Diagrama de clases")
+![Pantallazo 4](3.png "Diagrama de clases")
+![Pantallazo 5](2.1.png "Diagrama de clases")
+![Pantallazo 6](4.png "Diagrama de clases")
+![Pantallazo 7](5.png "Diagrama de clases")
+![Pantallazo 8](3.1.png "Diagrama de clases")
+![Pantallazo 9](6.png "Diagrama de clases")
+![Pantallazo 10](4.1.png "Diagrama de clases")
 
 ## DIAGRAMA DE CLASES
-![Diagrama de clases](DiagramaBiblioteca.png "Diagrama de clases")
+![Diagrama de clases](DiagramaFigura.png "Diagrama de clases")
